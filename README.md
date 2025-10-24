@@ -68,7 +68,7 @@
 ### Managed Hosting
 
 - [Ghost(Pro)](https://ghost.org/pricing/): Official managed hosting from the Ghost team.
-- [Magic Pages](https://magicpages.co/): 2nd most popular managed hosting service for Ghost. Competitive price, many features
+- [Magic Pages](https://www.magicpages.co/): 2nd most popular managed hosting service for Ghost. Competitive price, many features
 - [Synaps Media](https://www.synapsmedia.com/): Another managed hosting service for Ghost. Competitive price, permissive resources
 
 ### Semi-managed Options
