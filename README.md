@@ -64,10 +64,20 @@
 - [Ghost SEO Guide](https://ghost.org/resources/beginners-guide-to-seo/): Official guide to improving SEO on your Ghost blog.
   
 ## Hosting Providers
+
+### Managed Hosting
+
 - [Ghost(Pro)](https://ghost.org/pricing/): Official managed hosting from the Ghost team.
+- [Magic Pages](https://magicpages.co/): 2nd most popular managed hosting service for Ghost. Competitive price, many features
+- [Synaps Media](https://www.synapsmedia.com/): Another managed hosting service for Ghost. Competitive price, permissive resources
+
+### Semi-managed Options
+
+- [Pikapods](https://www.pikapods.com/): Great price with some extra configuration needs.
 - [DigitalOcean](https://www.digitalocean.com/products/droplets/): Affordable cloud hosting that supports Ghost with easy 1-click installs.
 
 ## Analytics
+
 - [Google Analytics](https://ghost.org/integrations/google/): Official integration guide for Google Analytics.
 - [Fathom Analytics](https://usefathom.com/): A privacy-focused alternative to Google Analytics that integrates with Ghost.
 - [Plausible Analytics](https://plausible.io/): Simple and open-source analytics that integrates with Ghost.
